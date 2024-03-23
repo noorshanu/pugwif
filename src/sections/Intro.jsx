@@ -13,7 +13,7 @@ const Intro = () => {
         
           <div className=" max-w-6xl">
           <h2 className="font-groot-one text-3xl my-2 text-[#000000] text-center font-bold relative z-30 -mt-4">
-          The Creator of the Dogwifhat Meme @ma_babezz on instagram also posted a meme as a video of her dog in a bag.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam illo alias voluptatibus eos veritatis? Laboriosam tempore repudianda
         </h2>
           
            <div className=" grid grid-cols-1 sm:grid-cols-2 items-center gap-4 mt-12">
