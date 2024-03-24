@@ -13,7 +13,7 @@ const Intro = () => {
         
           <div className=" max-w-6xl">
           <h2 className="font-groot-one text-2xl my-2 text-[#000000] text-center font-bold relative z-30 -mt-4">
-          DogeWif is the ultimate meme coin on Solana, led by our charismatic DogeWif, the true dog leader of the meme community. With irresistible charm and honest intentions, hearts are won and investors wooed left, right, and center.
+          Hey there, fellow dog lovers and crypto enthusiasts! 🐶🌈⛑️ DogeWIF – the coolest dog on Solana with a rainbow hat, is all about memes, speed, and having a blast in the crypto world! Get ready for a wild ride with the cutest coins in town!
         </h2>
           
            <div className=" grid grid-cols-1 sm:grid-cols-2 items-center gap-4 mt-12">
