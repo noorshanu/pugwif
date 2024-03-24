@@ -9,14 +9,14 @@ function Navbar() {
           
           <div className=" flex items-center gap-1">
           <img src="/images/logo.png" className="max-w-[7rem] w-full " alt="" />
-            <h2 className=" text-[#ffb22e] font-groot-one text-3xl font-bold">PugWif</h2>
+            <h2 className=" text-[#ffb22e] font-groot-one text-3xl font-bold">DogeWif</h2>
           </div>
 
           <div className="flex items-center space-x-6">
-            <a href="https://t.me/pugwif" target="_blank" className=" text-2xl text-[#ffb22e]">
+            <a href="https://t.me/dogewifs" target="_blank" className=" text-2xl text-[#ffb22e]">
               <FaTelegram />
             </a>
-            <a href="https://twitter.com/Pug_wafi_" target="_blank" className=" text-2xl text-[#ffb22e]">
+            <a href="https://twitter.com/DogeWIF_" target="_blank" className=" text-2xl text-[#ffb22e]">
               <FaTwitter />
             </a>
           </div>

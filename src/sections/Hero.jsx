@@ -10,30 +10,30 @@ function Hero() {
 
           <div className=" max-w-4xl">
             <h1 className=" uppercase text-5xl text-[#ffb22e] font-groot-one font-bold text-center my-4">
-              PugWif Solana
+           DogeWif Solana
             </h1>
 
             <p className="uppercase text-xl text-[#ffb22e] font-groot-one font-bold text-center">
             CONTRACT ADDRESS
             </p>
             <a
-              href="https://solscan.io/token/FcAtfMxrSqkDkTukKT77QMabd5H7EQV2kh2vzGuzt5qS"
+              href="/"
               target="_blank"
               className=" font-groot-two text-xs sm:text-xl text-center my-4 flex items-center justify-center bg-[#ffb22e] py-2 px-4 rounded-full "
             >
-              FcAtfMxrSqkDkTukKT77QMabd5H7EQV2kh2vzGuzt5qS
+              FcAtfMxrSqkDkTH7EQV2kh2vzGuzjhggv
             </a>
 
             <div className=" flex justify-center gap-4 items-center">
               <a
-                href="https://www.dextools.io/app/en/solana/pair-explorer/4pHGvggF5zic26Ve7gfHaMVCAB54KaTQed9nUfkGuA8q?t=1711228130843"
+                href="/"
                 target="_blank"
                 className="font-groot-one text-2xl uppercase text-black bg-[#d59055] border-2 border-[#000000] py-2 px-6 rounded-full"
               >
                 DexTools
               </a>
               <a
-                href="https://t.me/pugwif"
+                href="https://t.me/dogewifs"
                 target="_blank"
                 className="font-groot-one text-2xl uppercase text-black bg-[#d59055] border-2 border-[#000000] py-2 px-6 rounded-full"
               >
