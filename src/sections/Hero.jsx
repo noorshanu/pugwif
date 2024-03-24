@@ -17,11 +17,11 @@ function Hero() {
             CONTRACT ADDRESS
             </p>
             <a
-              href="/"
+              href="https://solscan.io/token/4WV2aySGezXy6TkZpFHMpxcS8WLvs1reaEG8GkVLTVzu"
               target="_blank"
               className=" font-groot-two text-xs sm:text-xl text-center my-4 flex items-center justify-center bg-[#ffb22e] py-2 px-4 rounded-full "
             >
-              FcAtfMxrSqkDkTH7EQV2kh2vzGuzjhggv
+              4WV2aySGezXy6TkZpFHMpxcS8WLvs1reaEG8GkVLTVzu
             </a>
 
             <div className=" flex justify-center gap-4 items-center">
